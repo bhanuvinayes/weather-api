@@ -10,5 +10,4 @@ public record AccuWeatherProperties(
         String apiKey,
         Duration connectTimeout,
         Duration readTimeout
-) {
-}
+) {}
